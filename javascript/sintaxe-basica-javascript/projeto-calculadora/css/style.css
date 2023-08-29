@@ -14,13 +14,15 @@ main {
 }
 
 .calculadora {
-    background-color: aliceblue;
-    margin: 20vh 2vh;
-    height: 70vh;
-
+    background-color: #070707;
+    margin: 10vh 2vh;
+    height: 65vh;
+    padding: .5rem;
 }
 
 .visor {
     background-color: #fff;
     margin: 1rem;
+    padding: .3rem;
+    text-align: right;
 }
