@@ -2,9 +2,9 @@ public class Main2 {
     
 
     public static void main(String [] args) {
-        CaixaEletronico sacar = new CaixaEletronico();
+        CaixaEletronico caixaSantander = new CaixaEletronico();
 
 
-        sacar.sacarDinheiro();
+        caixaSantander.sacarDinheiro();
     }
 }

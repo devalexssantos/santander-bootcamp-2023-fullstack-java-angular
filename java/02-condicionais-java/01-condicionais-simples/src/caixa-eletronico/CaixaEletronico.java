@@ -5,8 +5,7 @@ public class CaixaEletronico {
 
     public static void sacarDinheiro() {
         Scanner scan = new Scanner(System.in).useLocale(Locale.US);
-
-
+        
         int saldo = 3500;
 
         System.out.println("Qual valor deseja sacar?");
@@ -19,6 +18,7 @@ public class CaixaEletronico {
         }
 
         System.out.println("Saldo atual: " + saldo);
+    
     }
 
 
