@@ -4,6 +4,7 @@
 <ul>
     <li>Introdução ao Java</li>
     <li>Estruturas condicionais - Java</li>
+    <li>Estruturas de repetição - Java</li>
 </ul>
 
 <h3>Javascript</h3>
